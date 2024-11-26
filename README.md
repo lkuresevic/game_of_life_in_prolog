@@ -1,2 +1,3 @@
-# game_of_life_in_prolog
-Conway's Game of Life written in the logic programming language Prolog.
+# Conway's Game of Life, written in Prolog 
+
+Coursework for a high school class on Logic Programming.
